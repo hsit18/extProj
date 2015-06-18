@@ -1,0 +1,18 @@
+{
+  "name": "AgtractMobile",
+  "version": "0.0.0",
+  "description": "SVN Checkout of FDC",
+  "main": "login.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abdi",
+  "license": "ISC",
+  "devDependencies": {
+	"grunt": "0.4.1",
+	"grunt-contrib-concat": "0.1.3",
+	"grunt-contrib-cssmin" : "0.6.1",
+	"grunt-contrib-watch" : "0.5.3",
+	"grunt-contrib-uglify" : "0.2.0"
+  }
+}
